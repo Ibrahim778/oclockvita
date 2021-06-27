@@ -1,22 +1,12 @@
-# Oclock Vita
-taiHEN plugin for overclocking your PSVita
+# Oclock Vita (for UnityOC)
+Basically just oclockvita but striped down without gui. It'll read int's from a file and use those as the values for scePowerSet....
 
 Installation
---------------------------------------------------------------------------------
-
-Put "oclockvita.suprx" in 'tai' folder in the root of your Vita.
-
-Change config.txt in that directory to load plugin for title of your choice by adding new lines like below:
-
-```text
-# titleid for your game (this one is for Root//Letter for example)
-*PCSB01019
-ux0:tai/oclockvita.suprx
-```
-
-After that just run the game and press SELECT + UP to enable menu. Press SELECT + DOWN to close menu.
+Visit UnityOC's repo (here)[https://github.com/Ibrahim778/UnityOC].
 
 Thanks to: 
 
 https://github.com/Scorpeg
 https://github.com/BeatPlay/BetterAmphetaminPlugin
+
+frangarcj for original plugin.
